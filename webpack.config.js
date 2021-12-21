@@ -36,7 +36,6 @@ const config = {
                     {
                         loader: MiniCssExtractPlugin.loader,
                     },
-                    'style-loader',
                     {
                         loader: 'css-loader',
                         options: {
