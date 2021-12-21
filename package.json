@@ -1,0 +1,19 @@
+{
+  "name": "tailwind-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lauc1an/tailwind-webpack-boilerplate.git"
+  },
+  "author": "Laucian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lauc1an/tailwind-webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Lauc1an/tailwind-webpack-boilerplate#readme"
+}
