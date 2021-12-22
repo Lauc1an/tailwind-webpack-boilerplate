@@ -18,4 +18,4 @@ npm install
 
 ## License
 
-[MIT](https://opensource.org/licenses/MIT)
+[ISC](https://opensource.org/licenses/ISC)
